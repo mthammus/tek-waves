@@ -1,8 +1,3 @@
-
-
-https://container-registry.oracle.com/ords/f?p=113:4:10134017100995:::4:P4_REPOSITORY,AI_REPOSITORY,AI_REPOSITORY_NAME,P4_REPOSITORY_NAME,P4_EULA_ID,P4_BUSINESS_AREA_ID:1863,1863,Oracle%20Database%20Free,Oracle%20Database%20Free,1,0&cs=3cs1lmaG_YdE5PrMjPGByVYAa7fecA0eogtkUoWk_HvMPxOe3KQRXojMZXXtxdFddZIWTNZ6axo06Jqn52w3BUw
-
-
 # Oracle Database on Google Cloud Platform - FREE Version (Non - Production and only for POC's)
 
 This project automates the deployment of Oracle Database Free Edition using Docker on Google Cloud Platform (GCP).
