@@ -1,4 +1,4 @@
-# Oracle Database on Google Cloud Platform - FREE Version (Non - Production and only for POC's)
+# Oracle Database on GCloud - FREE Version (POC's usage only)
 
 This project automates the deployment of Oracle Database Free Edition using Docker on Google Cloud Platform (GCP).
 
